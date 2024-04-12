@@ -4,8 +4,7 @@ This project develops and evaluates two reinforcement learning (RL) agents – S
 
 ### Author
 Jatin Singh
-MS Data Science and Business Analytics – ESSEC x CentraleSupelec
-GitHub: salsa
+
 ### Environment
 Training: TextFlappyBird-v0 (text-based, provides distance from pipes)
 Testing: TextFlappyBird-screen-v0 (full-screen visual rendering)
@@ -28,4 +27,4 @@ Future Applications
 While these agents performed well in the provided text-based environments, additional modifications would be necessary for more complex environments like the original Flappy Bird game, due to continuous space considerations and computational constraints.
 
 ### Setup & Usage
-Details on setting up the environment and running the agents can be found in Main_Assignment_Code.ipynb. Make sure to install all required dependencies before executing the code.
+Details on setting up the environment and running the agents can be found in RL-FlappyBird.ipynb. Make sure to install all required dependencies before executing the code.
